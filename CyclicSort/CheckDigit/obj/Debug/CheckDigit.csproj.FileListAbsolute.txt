@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CyclicSort\CheckDigit\bin\Debug\CheckDigit.exe.config
+C:\Users\User\source\repos\CyclicSort\CheckDigit\bin\Debug\CheckDigit.exe
+C:\Users\User\source\repos\CyclicSort\CheckDigit\bin\Debug\CheckDigit.pdb
+C:\Users\User\source\repos\CyclicSort\CheckDigit\obj\Debug\CheckDigit.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CyclicSort\CheckDigit\obj\Debug\CheckDigit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CyclicSort\CheckDigit\obj\Debug\CheckDigit.exe
+C:\Users\User\source\repos\CyclicSort\CheckDigit\obj\Debug\CheckDigit.pdb
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CheckDigit\bin\Debug\CheckDigit.exe.config
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CheckDigit\bin\Debug\CheckDigit.exe
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CheckDigit\bin\Debug\CheckDigit.pdb
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CheckDigit\obj\Debug\CheckDigit.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CheckDigit\obj\Debug\CheckDigit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CheckDigit\obj\Debug\CheckDigit.exe
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CheckDigit\obj\Debug\CheckDigit.pdb

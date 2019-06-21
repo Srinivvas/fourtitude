@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CyclicSort\CyclicSort\bin\Debug\CyclicSort.exe.config
+C:\Users\User\source\repos\CyclicSort\CyclicSort\bin\Debug\CyclicSort.exe
+C:\Users\User\source\repos\CyclicSort\CyclicSort\bin\Debug\CyclicSort.pdb
+C:\Users\User\source\repos\CyclicSort\CyclicSort\obj\Debug\CyclicSort.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CyclicSort\CyclicSort\obj\Debug\CyclicSort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CyclicSort\CyclicSort\obj\Debug\CyclicSort.exe
+C:\Users\User\source\repos\CyclicSort\CyclicSort\obj\Debug\CyclicSort.pdb
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CyclicSort\bin\Debug\CyclicSort.exe.config
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CyclicSort\bin\Debug\CyclicSort.exe
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CyclicSort\bin\Debug\CyclicSort.pdb
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CyclicSort\obj\Debug\CyclicSort.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CyclicSort\obj\Debug\CyclicSort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CyclicSort\obj\Debug\CyclicSort.exe
+C:\Users\User\source\repos\Srinivvas\fourtitude\CyclicSort\CyclicSort\obj\Debug\CyclicSort.pdb
