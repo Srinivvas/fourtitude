@@ -12,15 +12,15 @@ namespace EmiLoanCalculator
         static void Main(string[] args)
         {
               var PaymentAmout = CalcualteMothlyInstallment();
-            // Console.WriteLine(" Monthly Repayment amount for 500000 as Principle at the rate of 4.65 for 30 Years Payment is  : "+PaymentAmout);            
-            Console.WriteLine(" Monthly Repayment amount for 500000 as Principle at the rate of 4.65 for 30 Years Payment is  : " + PaymentAmout);
+              Console.WriteLine(" Monthly Repayment amount for 500000 as Principle at the rate of 4.65 for 30 Years Payment is  : "+PaymentAmout);            
+            Console.WriteLine("  500000 as Principle at the rate of 4.65 for 30 Years Payment is  : " + PaymentAmout);
             int Months = CalcualateNumberOfMoths();
             Console.WriteLine("Total Number of months Required to pay back the Amount  : "+Months);
             Console.WriteLine("Number of Years Required to pay back the Amount  : " + Months/12);
             var PrincipleAmount = CalcualtePrincipleAmount();
             Console.WriteLine("Loan Amount can be borrowed for 30 Years with monthly payment of 2000 RM   : " + PrincipleAmount);
 
-            Console.ReadLine();
+            //Console.ReadLine();
         }
 
         private static int   CalcualteMothlyInstallment()
