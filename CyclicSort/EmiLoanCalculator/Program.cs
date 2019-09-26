@@ -12,6 +12,7 @@ namespace EmiLoanCalculator
         static void Main(string[] args)
         {
               var PaymentAmout = CalcualteMothlyInstallment();
+            // This code should be show in sep branch
             // Console.WriteLine(" Monthly Repayment amount for 500000 as Principle at the rate of 4.65 for 30 Years Payment is  : "+PaymentAmout);            
             Console.WriteLine(" Monthly Repayment amount for 500000 as Principle at the rate of 4.65 for 30 Years Payment is  : " + PaymentAmout);
             int Months = CalcualateNumberOfMoths();
